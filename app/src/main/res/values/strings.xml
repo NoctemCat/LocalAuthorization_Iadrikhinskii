@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">LocalAuthorization</string>
+    <string name="autoriz_label">Авторизация</string>
+    <string name="user_label">Пользователь</string>
+    <string name="password_label">Пароль</string>
+    <string name="button_label">ВОЙТИ</string>
+    <string name="enter_name">введите имя</string>
+    <string name="enter_pass">введите пароль</string>
+    <string name="attemps_text">Попыток осталось: </string>
+</resources>
